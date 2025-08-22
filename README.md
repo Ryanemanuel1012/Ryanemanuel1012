@@ -1,4 +1,7 @@
-## Hi there 👋
+## Area do meu interesse e quem eu sou:
+### Olá meu nome é Ryan e a area do meu interesse é a área da saúde.
+### Atualmente estou participando de um projeto do jornal da escola e desenvolvendo um projeto sobre ecologia integral.
+![jornal e ecologia na mesma foto ](https://agenda21pf.wordpress.com/wp-content/uploads/2013/12/27112013.jpg)
 
 <!--
 **Ryanemanuel1012/Ryanemanuel1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
